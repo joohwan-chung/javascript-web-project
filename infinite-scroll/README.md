@@ -1,11 +1,20 @@
 무한 스크롤 예제
 ============
 
-Unsplash API [https://unsplash.com/developers]
+[Unsplash API](https://unsplash.com/developers)
 ----------------------------------------------
 
 > - 무료 이미지를 제공하는 API로, API Key를 발급받아 사용할 수 있습니다.
 > - 코드에서는, script.js 파일에서 apiKey 변수의 YOUR_API_KEY_HERE 부분에 발급받은 API Key를 입력해야 합니다.
+
+<br />
+
+[LOADING.IO](https://loading.io/)
+---------------------------------
+
+> - 로딩 애니메이션을 제공하는 사이트로, 다른 로딩 애니메이션을 사용하셔도 됩니다.
+
+<br />
 
 참고사항
 ------
