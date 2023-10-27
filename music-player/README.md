@@ -51,6 +51,13 @@ music player 예제
 
 <br />
 
+[fontawesome Icon](https://fontawesome.com/v5/search?o=r&m=free)
+----------------------------------------------------------------
+
+> fontawesome에서 제공하는 아이콘을 확인할 수 있는 웹 페이지입니다.
+
+<br />
+
 참고사항
 ------
 
